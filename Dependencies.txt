@@ -1,0 +1,6 @@
+pip install torch torchvision torchaudio
+pip install transformers
+pip install pillow pytesseract python-docx docx2txt
+pip install fastapi uvicorn python-multipart
+pip install streamlit
+pip install pandas numpy scikit-learn
